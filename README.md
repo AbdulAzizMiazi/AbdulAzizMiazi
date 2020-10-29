@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning more about Node.js & Express.
 - 🤔 I'm search for new ideas to build websites for sharpening my skills.
 - ⚡ Fun fact: **🎒travelling**, 🎧 liening musics, 🎤Singing *(I'm a professional bathroom singer)* 😂
-<br>
 
 ### Connect with me:
 [<img align="left" alt="abdulaziz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abdulazizmiazi.github.io/mypage/mypage.html)
