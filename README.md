@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [<img align="left" alt="abdulaziz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abdulazizmiazi.github.io/mypage/mypage.html)
-[<img align="left" alt="Abdul Aziz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](abdulaziz31416@gmail.com)
+[<img align="left" alt="Abdul Aziz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:abdulaziz31416@gmail.com)
 [<img align="left" alt="Abdul Aziz | Linkin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulazizmiazi/)
 <br>
 
