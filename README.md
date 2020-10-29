@@ -12,6 +12,10 @@
 [<img align="left" alt="Abdul Aziz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](abdulaziz31416@gmail.com)
 [<img align="left" alt="Abdul Aziz | Linkin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulazizmiazi/)
 <br>
+
+### My Resume: 
+[<img align="left" alt="React" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/888/888071.svg" />](https://drive.google.com/file/d/1H_IqfLPTNuFqTma2nhl8dRPuxuq6sw5b/view?usp=sharing)
+<br>
 <br>
 
 ### Languages and Tools:
@@ -26,7 +30,7 @@
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 
-[<img align="left" alt="Firebase" width="40px" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" />]()
+[<img align="left" alt="Firebase" width="28px" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" />]()
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
 [<img align="left" alt="Netlify" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/netlify.svg" />]()
 [<img align="left" alt="HeroKu" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/heroku.svg" />]()
