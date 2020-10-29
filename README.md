@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm  [Abdul Aziz][https://abdulazizmiazi.github.io/mypage/mypage.html]
+
+**I'm crazy about JavaScript and React.js gives me more power.**😜
+
+- 🌱 I’m currently learning more about React.js.
 
 <!--
 **AbdulAzizMiazi/AbdulAzizMiazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
