@@ -1,4 +1,4 @@
-### Hi there 👋, I'm  [Abdul Aziz][https://abdulazizmiazi.github.io/mypage/mypage.html]
+### Hi there 👋, I'm  [Abdul Aziz](https://abdulazizmiazi.github.io/mypage/mypage.html)
 
 **I'm crazy about JavaScript and React.js gives me more power.**😜
 
