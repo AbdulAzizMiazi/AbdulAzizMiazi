@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm  [Abdul Aziz](https://abdulazizmiazi.github.io/mypage/mypage.html).
+<br>
+<br>
 
 ## I'm crazy about JavaScript & React.js gives me more power. 😜
 
@@ -6,7 +8,8 @@
 - 🌱 I’m currently learning more about Node.js & Express.
 - 🤔 I'm search for new ideas to build websites for sharpening my skills.
 - ⚡ Fun fact: **🎒travelling**, 🎧 liening musics, 🎤Singing *(I'm a professional bathroom singer)* 😂
-
+<br>
+<br>
 
 ### Connect with me:
 [<img align="left" alt="abdulaziz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abdulazizmiazi.github.io/mypage/mypage.html)
@@ -14,8 +17,9 @@
 [<img align="left" alt="Abdul Aziz | Linkin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulazizmiazi/)
 <br>
 <br>
+
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
