@@ -12,7 +12,8 @@
 [<img align="left" alt="abdulaziz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abdulazizmiazi.github.io/mypage/mypage.html)
 [<img align="left" alt="Abdul Aziz | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](abdulaziz31416@gmail.com)
 [<img align="left" alt="Abdul Aziz | Linkin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulazizmiazi/)
-
+<br>
+<br>
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
