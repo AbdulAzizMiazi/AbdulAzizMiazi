@@ -13,7 +13,7 @@
 [<img align="left" alt="Abdul Aziz | Linkin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/linkedin.svg" />](https://www.linkedin.com/in/abdulazizmiazi/)
 <br>
 <br>
-//https://img2.pngio.com/nodejs-expressjs-javascript-solution-stack-web-application-expressjs-png-800_490.jpg
+
 ### Languages and Tools:
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
 [<img align="left" alt="React Router" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/reactrouter.svg" />]()
@@ -26,9 +26,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg" />]()
-
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]()
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mongodb.svg" />]()
 [<img align="left" alt="Express" width="26px" src="https://img2.pngio.com/nodejs-expressjs-javascript-solution-stack-web-application-expressjs-png-800_490.jpg" />]()
 [<img align="left" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/netlify.svg" />]()
 [<img align="left" alt="HeroKu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/heroku.svg" />]()
@@ -37,3 +36,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="C/C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/cplusplus.svg" />]()
+
+<br>
+<br>
