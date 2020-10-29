@@ -42,7 +42,8 @@
 <br />
 <br />
 <br />
-
+<br />
+<br />
 <img align="left" width="550px" alt="Abdul Aziz's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=AbdulAzizMiazi&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzizMiazi&card_width=550)](https://github.com/AbdulAzizMiazi/AbdulAzizMiaz)
