@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm  [Abdul Aziz](https://abdulazizmiazi.github.io/mypage/mypage.html).
-## I'm crazy about JavaScript & React.js gives me more power. 😜
+## I'm crazy about JavaScript & React.js gives me more boost. 😜
 
 - 😍 I love to build websites using react.
 - 🌱 I’m currently learning more about Node.js & Express.
