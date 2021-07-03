@@ -3,7 +3,7 @@
 
 - 😍 I love to build websites using react.
 - 🌱 I’m currently learning more about Node.js & Express.
-- 🤔 I'm search for new ideas to build websites for sharpening my skills.
+- 🤔 I'm searching for new ideas to build websites for sharpening my skills.
 - ⚡ Fun fact: **🎒travelling**, 🎧 liening musics, 🎤Singing *(I'm a professional bathroom singer)* 😂
 
 ### Connect with me:
