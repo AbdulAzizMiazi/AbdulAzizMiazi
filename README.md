@@ -1,24 +1,20 @@
-# Hi there 👋, I'm Abdul Aziz Miazi  
+# Hi there 👋, I'm Abdul Aziz
 
 🎯 **Aspiring Data Scientist | Engineering & Management Student**  
 
-I’m currently studying **Engineering & Management (B.Eng.) in Germany** and building my path towards a career in **Data Science and Machine Learning**.  
-My focus is on learning **Python, Data Analysis, and Data Visualization**, while developing projects to strengthen my skills.  
+I’m currently studying **Engineering & Management (B.Eng.) in Germany** and focusing on my journey into **Data Science and Machine Learning**.  
+Right now, I am learning **Python, Data Analysis, and Data Visualization** — and I will keep expanding my skills in these areas step by step.  
 
 ---
 
 ## 🛠️ Tech & Tools I’m Learning
 - **Languages**: Python (main), C, JavaScript (basics)  
-- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn  
+- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn (so far)
 - **Tools**: Jupyter Notebook, Git, VS Code  
 
 ---
 
 ## 📈 Current Goals
-- Build strong foundations in **Data Science & Machine Learning**  
-- Gain hands-on experience through **projects**  
-- Qualify for an **entry-level Data Science student job in Germany**  
-
----
-
-⭐️ From [AbdulAzizMiazi](https://github.com/AbdulAzizMiazi)
+- Strengthen my foundations in **Python, Data Analysis & Visualization**  
+- Start building **practical Data Science projects**  
+- Prepare for an **entry-level Data Science student job in Germany**  
